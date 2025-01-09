@@ -4,7 +4,7 @@ from aiogram.types import Message, CallbackQuery
 from aiogram.filters import Command
 
 # Укажите токен вашего бота
-bot = Bot('7980263705:AAGLF6TdQdYePCmhozqWNM1OiIQEEufOi1M')
+bot = Bot('7852569404:AAHSvMDOJL2WJ-IVJ5QLLdgTm2R1iam70Is')
 dp = Dispatcher()
 
 # Обработчик команды /start
